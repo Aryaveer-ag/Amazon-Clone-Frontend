@@ -1,2 +1,2 @@
 # Amazon-Clone-Frontend
-This is the display page of the Amazon website
+Checkout the master branch for the code and images used.
